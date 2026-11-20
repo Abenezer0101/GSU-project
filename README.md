@@ -1,4 +1,4 @@
-# Assignment 5: Integration & Packaging (Dashboard Project)
+Integration & Packaging (Dashboard Project)
 **Course:** Deep Learning for Business  
 **Application:** Customer Experience & Retention Dashboard (`streamlit_app.py`)
 
